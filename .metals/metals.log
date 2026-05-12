@@ -37,3 +37,86 @@
 2026.05.11 16:39:24 INFO  no build target found for /Users/suryakirangorthi/Hello-World/Main.java. Using fallback presentation compiler.[0m
 2026.05.11 16:39:36 WARN  no build target for: /Users/suryakirangorthi/Hello-World/Main.java[0m
 2026.05.11 16:39:36 INFO  no build target found for /Users/suryakirangorthi/Hello-World/Main.java. Using fallback presentation compiler.[0m
+2026.05.12 09:43:50 INFO  no build target found for /Users/suryakirangorthi/Hello-World/Main.java. Using fallback presentation compiler.[0m
+May 12, 2026 9:43:50 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 65
+2026.05.12 09:43:50 INFO  no build target found for /Users/suryakirangorthi/Hello-World/Main.java. Using fallback presentation compiler.[0m
+2026.05.12 09:43:50 INFO  no build target found for /Users/suryakirangorthi/Hello-World/Main.java. Using fallback presentation compiler.[0m
+2026.05.12 10:13:21 INFO  no build target found for /Users/suryakirangorthi/Hello-World/Main.java. Using fallback presentation compiler.[0m
+2026.05.12 10:13:21 INFO  no build target found for /Users/suryakirangorthi/Hello-World/Main.java. Using fallback presentation compiler.[0m
+May 12, 2026 10:13:21 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 68
+May 12, 2026 10:13:21 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 69
+2026.05.12 10:13:21 INFO  no build target found for /Users/suryakirangorthi/Hello-World/Main.java. Using fallback presentation compiler.[0m
+2026.05.12 10:51:14 INFO  no build target found for /Users/suryakirangorthi/Hello-World/Main.java. Using fallback presentation compiler.[0m
+2026.05.12 10:51:14 INFO  no build target found for /Users/suryakirangorthi/Hello-World/Main.java. Using fallback presentation compiler.[0m
+2026.05.12 10:51:14 INFO  no build target found for /Users/suryakirangorthi/Hello-World/Main.java. Using fallback presentation compiler.[0m
+2026.05.12 12:38:18 INFO  no build target found for /Users/suryakirangorthi/Hello-World/Main.java. Using fallback presentation compiler.[0m
+2026.05.12 12:38:27 WARN  no build target for: /Users/suryakirangorthi/Hello-World/Main.java[0m
+2026.05.12 12:38:27 INFO  no build target found for /Users/suryakirangorthi/Hello-World/Main.java. Using fallback presentation compiler.[0m
+2026.05.12 12:38:27 INFO  no build target found for /Users/suryakirangorthi/Hello-World/Main.java. Using fallback presentation compiler.[0m
+May 12, 2026 12:38:27 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 169
+2026.05.12 12:38:27 INFO  no build target found for /Users/suryakirangorthi/Hello-World/Main.java. Using fallback presentation compiler.[0m
+2026.05.12 12:38:27 INFO  no build target found for /Users/suryakirangorthi/Hello-World/Main.java. Using fallback presentation compiler.[0m
+2026.05.12 12:38:28 INFO  no build target found for /Users/suryakirangorthi/Hello-World/Main.java. Using fallback presentation compiler.[0m
+2026.05.12 12:40:20 INFO  no build target found for /Users/suryakirangorthi/Hello-World/Main.java. Using fallback presentation compiler.[0m
+2026.05.12 12:40:20 INFO  no build target found for /Users/suryakirangorthi/Hello-World/Main.java. Using fallback presentation compiler.[0m
+2026.05.12 12:40:21 INFO  no build target found for /Users/suryakirangorthi/Hello-World/Main.java. Using fallback presentation compiler.[0m
+2026.05.12 12:40:24 INFO  no build target found for /Users/suryakirangorthi/Hello-World/Main.java. Using fallback presentation compiler.[0m
+2026.05.12 12:40:24 INFO  no build target found for /Users/suryakirangorthi/Hello-World/Main.java. Using fallback presentation compiler.[0m
+2026.05.12 12:40:24 INFO  no build target found for /Users/suryakirangorthi/Hello-World/Main.java. Using fallback presentation compiler.[0m
+2026.05.12 12:40:24 INFO  no build target found for /Users/suryakirangorthi/Hello-World/Main.java. Using fallback presentation compiler.[0m
+2026.05.12 12:40:24 INFO  no build target found for /Users/suryakirangorthi/Hello-World/Main.java. Using fallback presentation compiler.[0m
+2026.05.12 12:40:24 INFO  no build target found for /Users/suryakirangorthi/Hello-World/Main.java. Using fallback presentation compiler.[0m
+2026.05.12 12:40:25 INFO  no build target found for /Users/suryakirangorthi/Hello-World/Main.java. Using fallback presentation compiler.[0m
+2026.05.12 12:40:25 INFO  no build target found for /Users/suryakirangorthi/Hello-World/Main.java. Using fallback presentation compiler.[0m
+2026.05.12 12:40:25 INFO  no build target found for /Users/suryakirangorthi/Hello-World/Main.java. Using fallback presentation compiler.[0m
+2026.05.12 12:40:25 INFO  no build target found for /Users/suryakirangorthi/Hello-World/Main.java. Using fallback presentation compiler.[0m
+2026.05.12 12:40:25 INFO  no build target found for /Users/suryakirangorthi/Hello-World/Main.java. Using fallback presentation compiler.[0m
+2026.05.12 12:40:38 INFO  no build target found for /Users/suryakirangorthi/Hello-World/Main.java. Using fallback presentation compiler.[0m
+2026.05.12 12:40:40 INFO  no build target found for /Users/suryakirangorthi/Hello-World/Main.java. Using fallback presentation compiler.[0m
+2026.05.12 12:40:40 INFO  no build target found for /Users/suryakirangorthi/Hello-World/Main.java. Using fallback presentation compiler.[0m
+2026.05.12 12:40:40 INFO  no build target found for /Users/suryakirangorthi/Hello-World/Main.java. Using fallback presentation compiler.[0m
+2026.05.12 12:40:40 INFO  no build target found for /Users/suryakirangorthi/Hello-World/Main.java. Using fallback presentation compiler.[0m
+2026.05.12 12:40:41 INFO  no build target found for /Users/suryakirangorthi/Hello-World/Main.java. Using fallback presentation compiler.[0m
+2026.05.12 12:40:41 INFO  no build target found for /Users/suryakirangorthi/Hello-World/Main.java. Using fallback presentation compiler.[0m
+2026.05.12 12:40:41 INFO  no build target found for /Users/suryakirangorthi/Hello-World/Main.java. Using fallback presentation compiler.[0m
+2026.05.12 12:40:41 INFO  no build target found for /Users/suryakirangorthi/Hello-World/Main.java. Using fallback presentation compiler.[0m
+2026.05.12 12:40:42 INFO  no build target found for /Users/suryakirangorthi/Hello-World/Main.java. Using fallback presentation compiler.[0m
+2026.05.12 12:40:42 INFO  no build target found for /Users/suryakirangorthi/Hello-World/Main.java. Using fallback presentation compiler.[0m
+2026.05.12 12:40:42 INFO  no build target found for /Users/suryakirangorthi/Hello-World/Main.java. Using fallback presentation compiler.[0m
+2026.05.12 12:40:45 INFO  no build target found for /Users/suryakirangorthi/Hello-World/Main.java. Using fallback presentation compiler.[0m
+2026.05.12 12:40:45 INFO  no build target found for /Users/suryakirangorthi/Hello-World/Main.java. Using fallback presentation compiler.[0m
+2026.05.12 12:40:45 INFO  no build target found for /Users/suryakirangorthi/Hello-World/Main.java. Using fallback presentation compiler.[0m
+2026.05.12 12:40:45 INFO  no build target found for /Users/suryakirangorthi/Hello-World/Main.java. Using fallback presentation compiler.[0m
+2026.05.12 12:40:46 INFO  no build target found for /Users/suryakirangorthi/Hello-World/Main.java. Using fallback presentation compiler.[0m
+2026.05.12 12:40:46 INFO  no build target found for /Users/suryakirangorthi/Hello-World/Main.java. Using fallback presentation compiler.[0m
+2026.05.12 12:40:46 INFO  no build target found for /Users/suryakirangorthi/Hello-World/Main.java. Using fallback presentation compiler.[0m
+2026.05.12 12:40:46 INFO  no build target found for /Users/suryakirangorthi/Hello-World/Main.java. Using fallback presentation compiler.[0m
+2026.05.12 12:40:48 INFO  no build target found for /Users/suryakirangorthi/Hello-World/Main.java. Using fallback presentation compiler.[0m
+2026.05.12 12:40:48 INFO  no build target found for /Users/suryakirangorthi/Hello-World/Main.java. Using fallback presentation compiler.[0m
+2026.05.12 12:40:48 INFO  no build target found for /Users/suryakirangorthi/Hello-World/Main.java. Using fallback presentation compiler.[0m
+2026.05.12 12:40:48 INFO  no build target found for /Users/suryakirangorthi/Hello-World/Main.java. Using fallback presentation compiler.[0m
+2026.05.12 12:40:49 INFO  no build target found for /Users/suryakirangorthi/Hello-World/Main.java. Using fallback presentation compiler.[0m
+2026.05.12 12:40:49 INFO  no build target found for /Users/suryakirangorthi/Hello-World/Main.java. Using fallback presentation compiler.[0m
+2026.05.12 12:40:49 INFO  no build target found for /Users/suryakirangorthi/Hello-World/Main.java. Using fallback presentation compiler.[0m
+2026.05.12 12:40:50 INFO  no build target found for /Users/suryakirangorthi/Hello-World/Main.java. Using fallback presentation compiler.[0m
+2026.05.12 12:40:50 INFO  no build target found for /Users/suryakirangorthi/Hello-World/Main.java. Using fallback presentation compiler.[0m
+2026.05.12 12:40:51 INFO  no build target found for /Users/suryakirangorthi/Hello-World/Main.java. Using fallback presentation compiler.[0m
+2026.05.12 12:40:50 INFO  no build target found for /Users/suryakirangorthi/Hello-World/Main.java. Using fallback presentation compiler.[0m
+2026.05.12 12:40:50 INFO  no build target found for /Users/suryakirangorthi/Hello-World/Main.java. Using fallback presentation compiler.[0m
+2026.05.12 12:40:51 INFO  no build target found for /Users/suryakirangorthi/Hello-World/Main.java. Using fallback presentation compiler.[0m
+2026.05.12 12:40:51 INFO  no build target found for /Users/suryakirangorthi/Hello-World/Main.java. Using fallback presentation compiler.[0m
+2026.05.12 12:40:53 INFO  no build target found for /Users/suryakirangorthi/Hello-World/Main.java. Using fallback presentation compiler.[0m
+2026.05.12 12:40:53 INFO  no build target found for /Users/suryakirangorthi/Hello-World/Main.java. Using fallback presentation compiler.[0m
+2026.05.12 12:40:53 INFO  no build target found for /Users/suryakirangorthi/Hello-World/Main.java. Using fallback presentation compiler.[0m
+2026.05.12 12:40:53 INFO  no build target found for /Users/suryakirangorthi/Hello-World/Main.java. Using fallback presentation compiler.[0m
+2026.05.12 12:40:53 INFO  no build target found for /Users/suryakirangorthi/Hello-World/Main.java. Using fallback presentation compiler.[0m
+2026.05.12 12:40:54 INFO  no build target found for /Users/suryakirangorthi/Hello-World/Main.java. Using fallback presentation compiler.[0m
+2026.05.12 12:40:54 INFO  no build target found for /Users/suryakirangorthi/Hello-World/Main.java. Using fallback presentation compiler.[0m
+2026.05.12 12:40:55 INFO  no build target found for /Users/suryakirangorthi/Hello-World/Main.java. Using fallback presentation compiler.[0m
+2026.05.12 12:40:55 INFO  no build target found for /Users/suryakirangorthi/Hello-World/Main.java. Using fallback presentation compiler.[0m
+2026.05.12 12:40:59 WARN  no build target for: /Users/suryakirangorthi/Hello-World/Main.java[0m
+2026.05.12 12:40:59 INFO  no build target found for /Users/suryakirangorthi/Hello-World/Main.java. Using fallback presentation compiler.[0m
